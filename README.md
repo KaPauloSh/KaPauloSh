@@ -22,4 +22,4 @@
     <img align="center" alt="microsoft power point" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img align="center" alt="microsoft word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 </div><br/>
-Amo tecnologia desde pequeno e ultimamente estou tendo muito contato com ela enquanto busco por uma oportunidade de entrar no mercado.
+Amo tecnologia desde pequeno e foi isso que me levou a virar um estudante de sistemas de informações e todo dia procurar por mais formas de aprender, enquanto busco por uma oportunidade de entrar no mercado de trabalho.
