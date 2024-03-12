@@ -25,7 +25,9 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <br/>
-    # Linguagens
+</div><br/>
+# Linguagens
+<div style="display: inline_block"><br/>
     <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div><br/>
 Amo tecnologia desde pequeno e foi isso que me levou a virar um estudante de sistemas de informações e todo dia procurar por mais formas de aprender, enquanto busco por uma oportunidade de entrar no mercado de trabalho.
