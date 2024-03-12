@@ -21,7 +21,7 @@
     <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
     <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)" />
-    <img align="center" alt="mongodb" src="![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" />
+    <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 Amo tecnologia desde pequeno e foi isso que me levou a virar um estudante de sistemas de informações e todo dia procurar por mais formas de aprender, enquanto busco por uma oportunidade de entrar no mercado de trabalho.
 
